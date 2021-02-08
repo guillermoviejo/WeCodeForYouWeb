@@ -1665,7 +1665,7 @@ body {
   line-height: 1.35;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #232340;
+  color: #0c0c0c;
 }
 
 body.no-scroll {
@@ -1772,29 +1772,29 @@ select {
 }
 
 .btn_dark {
-  border-color: #232340;
+  border-color: #0c0c0c;
   color: #ffffff;
 }
 
 .btn_dark:before {
-  background: #232340;
+  background: #0c0c0c;
 }
 
 .btn_dark:hover {
-  color: #232340;
+  color: #0c0c0c;
 }
 
 .btn_primary {
-  border-color: #5468E7;
+  border-color: #0c0c0c;
   color: #ffffff;
 }
 
 .btn_primary:before {
-  background: #5468E7;
+  background: #0c0c0c;
 }
 
 .btn_primary:hover {
-  color: #5468E7;
+  color: #0c0c0c;
 }
 
 .btn_white {
@@ -1848,7 +1848,7 @@ select {
 }
 
 .header__pic {
-  width: 159px;
+  width: 130px;
 }
 
 .header__pic_white {
@@ -1886,7 +1886,7 @@ select {
 }
 
 .header__item.active {
-  color: #5468E7;
+  color: #1C4C5E;
 }
 
 .header__item:not(:last-child) {
@@ -2142,7 +2142,7 @@ select {
   height: 48px;
   margin-right: 16px;
   border-radius: 50%;
-  background: #C897E4;
+  background: #009FDE;
   overflow: hidden;
   font-size: 0;
 }
@@ -2394,7 +2394,7 @@ select {
   width: 100%;
   height: 100%;
   z-index: -5;
-  background: #232340;
+  background: #0c0c0c;
 }
 
 .bg__preview {
@@ -2406,7 +2406,7 @@ select {
 
 .stage {
   font-weight: 600;
-  color: #5468E7;
+  color: #009FDE;
 }
 
 .stage__line {
@@ -2432,9 +2432,9 @@ select {
 .number {
   position: relative;
   display: inline-block;
-  font-size: 200px;
+  font-size: 97px;
   font-weight: 600;
-  line-height: 1.2;
+  line-height: 1.6;
 }
 
 .number__plus {
@@ -2795,7 +2795,7 @@ select {
   width: 2px;
   height: 80px;
   border-radius: 1px;
-  background: #FFC7DF;
+  background: #009FDE;
 }
 
 .details__info {
@@ -2887,6 +2887,7 @@ select {
   -webkit-transform: rotate(-90deg);
   -ms-transform: rotate(-90deg);
   transform: rotate(-90deg);
+  fill: #ffffff;
 }
 
 .details .slick-slide {
@@ -2993,7 +2994,7 @@ select {
   -webkit-transform: scaleY(1.16);
   -ms-transform: scaleY(1.16);
   transform: scaleY(1.16);
-  background: #5468E7;
+  background: #0c0c0c;
 }
 
 .work__preview {
@@ -3282,7 +3283,7 @@ select {
   margin-bottom: 24px;
   padding: 0 23px;
   border-radius: 20px;
-  background: #908CFF;
+  background: #009FDE;
   font-size: 14px;
   font-weight: 600;
   line-height: 40px;
@@ -3838,7 +3839,7 @@ select {
 }
 
 .jobs__inner:hover {
-  background: #232340;
+  background: #0c0c0c;
 }
 
 .jobs__inner:hover .icon {
@@ -3862,7 +3863,7 @@ select {
   width: 215px;
   padding: 20px;
   border-radius: 40px;
-  background: #5468E7;
+  background: #ffffff;
   font-size: 0;
   visibility: hidden;
   opacity: 0;
@@ -3961,7 +3962,7 @@ select {
 
 .about__container {
   position: relative;
-  background: #5468E7;
+  background: #0c0c0c;
   border-radius: 40px;
   color: #ffffff;
 }
@@ -6019,7 +6020,7 @@ select {
     align-items: flex-start;
     min-height: 100vh;
     padding: 150px 32px 40px;
-    background: #232340;
+    background: #0c0c0c;
     -webkit-transform: translateX(-100%);
     -ms-transform: translateX(-100%);
     transform: translateX(-100%);
